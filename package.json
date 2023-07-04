@@ -1,0 +1,17 @@
+{
+  "name": "custom-logger",
+  "description": "The purpose of this project is to provide a simple logging utility with basic features for Node.js projects. The Logger class allows you to log messages to either the console or a file, with additional metadata such as date, process ID, and hostname.",
+  "main": "test.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsirianni/custom-logger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsirianni/custom-logger/issues"
+  },
+  "homepage": "https://github.com/tsirianni/custom-logger#readme"
+}
